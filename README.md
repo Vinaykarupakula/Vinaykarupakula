@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinaykarupakula
-- 👀 I’m interested in Python, Django, Pandas, Tableau, Matplotlib...  
-- 🌱 I’m currently working as Analyst
+- 👀 I’m interested in Python, Django, Pandas, SQL, Tableau, Matplotlib, PowerBI. 
+- 🌱 I’m currently working as Data Analyst
 - 💞️ I’m looking to collaborate on **Data Science**
 - 📫 How to reach me vinaireddyz@gmail.com or vinaireddyz@outlook.com 
 
